@@ -1,7 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using CodeTests;
 
-namespace CodeTests
+namespace SequencePartitioner
 {
     public static class SequencePartitioner<T>
     {

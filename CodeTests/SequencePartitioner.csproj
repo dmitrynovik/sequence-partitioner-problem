@@ -7,8 +7,8 @@
     <ProjectGuid>{CF40A73A-65B8-4C8E-B301-EA2667E4262E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CodeTests</RootNamespace>
-    <AssemblyName>CodeTests</AssemblyName>
+    <RootNamespace>SequencePartitioner</RootNamespace>
+    <AssemblyName>SequencePartitioner</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

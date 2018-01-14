@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using NUnit.Framework;
 
-namespace CodeTests
+namespace SequencePartitioner
 {
     [TestFixture]
     public class SequencePartitionerTest
